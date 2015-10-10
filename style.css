@@ -1,0 +1,22 @@
+.small {
+	font-family: Verdana,
+	Arial, Helvetica,
+	sans-serif;
+	font-weight: normal;
+}
+
+body {
+	clip:  rect(   );
+	margin-top: 0;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 0
+}
+a {
+	color: #333333
+}
+td {
+	font-family: Verdana, Arial, sans-serif, Helvetica;
+	font-size: 10px;
+	color: #333333
+}
